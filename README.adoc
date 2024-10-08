@@ -1,0 +1,16 @@
+= utop.nvim
+
+Integrates utop into neovim for easy evaluation of your OCaml expressions
+
+== Usage
+
+First call `setup` to load the plugin:
+
+[source,lua]
+----
+require('utop').setup(opts)
+----
+
+`opts` is a table containing the following options:
+
+* `insert_on_open` (`boolean`): Automatically switch to insert mode when the utop window opens
