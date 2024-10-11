@@ -1,6 +1,11 @@
+:icons: font
+
 = utop.nvim
 
 Integrates utop into neovim for easy evaluation of your OCaml expressions
+
+WARNING: This repository is a mirror, contributions needs to be made through radicle.
+Radicle repository id is `rad:z4HqnbBJbu1WeUBLDgLDA88o9yfzT`
 
 == Usage
 
